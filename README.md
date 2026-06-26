@@ -65,8 +65,5 @@ Contributions are welcome. To contribute:
 3. Commit your changes: `git commit -m "Add feature"`
 4. Push to your fork and open a Pull Request
 
-## License
-Add a license file or update this section with the project's license (e.g., MIT).
-
 ## Contact
 For questions, reach out to the repository owner: @srinu-devireddy
